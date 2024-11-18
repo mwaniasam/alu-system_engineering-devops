@@ -1,0 +1,1 @@
+This is the start of a series of debugging projects. Being able to debug is an essential skill for any software engineer. Here I will be provided with broken/bugged webstacks and the final goal is to come up with a Bash script to make the webstack work!
