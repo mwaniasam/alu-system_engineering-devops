@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# What is it like to Run software as another user?
+
+sudo -u $1 whoami
